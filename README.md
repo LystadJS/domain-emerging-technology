@@ -22,7 +22,8 @@ _Explain the methodological difficulties characteristic of this domain._
 
 <!-- JSL:AUTO-METHODS:START -->
 
-_Method links can be generated from projects registered to this domain._
+- [Dimension Reduction](https://github.com/LystadJS/method-dimension-reduction) — 1 registered project
+- [Statistical Computing and Visualization](https://github.com/LystadJS/method-statistical-computing) — 1 registered project
 
 <!-- JSL:AUTO-METHODS:END -->
 
@@ -30,6 +31,8 @@ _Method links can be generated from projects registered to this domain._
 
 <!-- JSL:AUTO-PROJECTS:START -->
 
-_Project links are generated from registered project manifests._
+| Project | Methods | Status |
+|---|---|---|
+| [Artificial Intelligence Governance and Non-Proliferation](https://github.com/LystadJS/project-ai-governance-non-proliferation) | Dimension Reduction, Statistical Computing and Visualization | Active |
 
 <!-- JSL:AUTO-PROJECTS:END -->
