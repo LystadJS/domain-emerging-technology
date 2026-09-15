@@ -1,0 +1,9 @@
+schema_version: '1.0'
+domain:
+  id: emerging-technology
+  label: Emerging Technology
+  repository: LystadJS/domain-emerging-technology
+  status: planned
+  summary: Research on the governance, diffusion, risks, and security implications
+    of emerging technologies.
+  related_domains: []
